@@ -17,11 +17,12 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
+    "from-source": "~0.1.0",
+    "map-stream": "0.0.6",
+    "mapping-stream": "~0.1.0",
     "read-stream": "~0.4.1",
     "read-write-stream": "~0.1.0",
-    "write-stream": "~0.4.0",
-    "mapping-stream": "~0.1.0",
-    "from-source": "~0.1.0"
+    "write-stream": "~0.4.0"
   },
   "devDependencies": {
     "mongo-col": "~1.0.5"

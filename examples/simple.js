@@ -3,7 +3,7 @@ var collection = require("mongo-col")
     , to = require("write-stream").toArray
     , from = require("read-stream").fromArray
     , assert = require("assert")
-    , map = require("mapping-stream")
+    , map = require("map-stream")
 
     , MongoStream = require("../index")
 

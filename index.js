@@ -1,7 +1,7 @@
 var ReadStream = require("read-stream")
     , WriteStream = require("write-stream")
     , ReadWriteStream = require("read-write-stream")
-    , map = require("mapping-stream")
+    , map = require("map-stream")
     , fromSource = require("from-source")
 
     , mapMethods = ["insert", "remove", "save"]
